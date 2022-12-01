@@ -1,7 +1,7 @@
 # ToDo_App
 
-Pending: Reminder, Repeated tasks.
-\nImportant: Feel free to fork and changes and contribute.
+Pending:  Reminder, Repeated tasks.<br />
+Important:  Feel free to fork and changes and contribute.<br /><br />
 If you found this helpful then kindly star the repo, I will add more features soon.
 
 
